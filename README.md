@@ -11,7 +11,7 @@
 ## GitHub Stats:
 
 
-[![Aditya's GitHub stats](https://github-readme-stats.vercel.app/api?username=adityasahugit)](https://github.com/anuraghazra/github-readme-stats)
+[![Aditya's GitHub stats](https://github-readme-stats.vercel.app/api?username=adityasahugit)]
 
 
 ## Watch the Snake eat my contributions
