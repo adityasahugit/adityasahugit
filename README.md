@@ -13,7 +13,7 @@
 
   
 ## GitHub Stats:
-![Aditya's GitHub stats](https://github-readme-stats.vercel.app/api?username=adityasahugit&include_all_commits=true)
+![Aditya's GitHub stats](https://github-readme-stats.vercel.app/api?username=adityasahugit)
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=adityasahugit&label=Profile%20views&color=0e75b6&style=flat" alt="adityasahugit" /> </p>
 
