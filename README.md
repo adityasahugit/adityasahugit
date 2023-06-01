@@ -2,8 +2,8 @@
 
 
 
-- 🔭 I’m a Masters student in Artificial Intelligence at San Jose State University
-- 🌱 I’m currently learning everything :)
+- 🔭 Masters student in Artificial Intelligence at San Jose State University
+- 🌱 Currently working as a Machine Learning Intern at Nuvoton Technology
 - 🥅  Goals 2023: Learn more about Machine Learning
 - ⚡ Fun fact: I love to sing/play keyboard 
 
