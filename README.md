@@ -1,4 +1,4 @@
-### Hi there 👋, I'm <a href="https://www.linkedin.com/in/adityasahuvns/" target="_blank">Aditya Sahu</a>!
+### Hi there 👋, I'm <a href="[https://www.linkedin.com/in/adityasahuvns/](https://adityasahugit.github.io/)" target="_blank">Aditya Sahu</a>!
 
 
 
